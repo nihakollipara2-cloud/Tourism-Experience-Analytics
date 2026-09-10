@@ -1,0 +1,31 @@
+AttractionId,Attraction,AttractionCityId,AttractionTypeId,AttractionType,AttractionAddress,AvgRating,RatingCount,UniqueUsers,PopularityScore
+369,Kuta Beach - Bali,1,13,Beaches,Kuta,3.4151898734177215,2765,2571,4.9864067043134455
+481,Nusa Dua Beach,1,13,Beaches,"Semenanjung Nusa Dua, Nusa Dua 80517 Indonesia",4.275665399239544,2104,1992,5.451939828056103
+640,Sacred Monkey Forest Sanctuary,1,63,Nature & Wildlife Areas,"Jl. Monkey Forest, Ubud 80571 Indonesia",4.267085922109411,13198,11487,6.080485765532157
+650,Sanur Beach,1,13,Beaches,Sanur,3.97634691195795,3044,2808,5.383997920519091
+673,Seminyak Beach,1,13,Beaches,Seminyak,3.800617707618394,2914,2754,5.256925056806805
+737,Tanah Lot Temple,1,76,Religious Sites,"Kecamatan Kediri, Kabupaten Tabanan, Beraban 82121 Indonesia",4.19480906921241,3352,3156,5.561766330460423
+748,Tegalalang Rice Terrace,1,72,Points of Interest & Landmarks,"Jalan Raya Ceking, Tegalalang 80517 Indonesia",4.157523645743766,5815,5415,5.729193655995998
+749,Tegenungan Waterfall,1,93,Waterfalls,"Jl. Raya Tegenungan, Kemenuh, Ubud 80581 Indonesia",3.895433789954338,2190,2152,5.222522048105623
+824,Uluwatu Temple,1,76,Religious Sites,"Jl. Raya Uluwatu Southern part of Bali, Pecatu 80361 Indonesia",4.219410538850848,3359,3183,5.579130268188791
+841,Waterbom Bali,1,92,Water Parks,"Jl. Kartika Plaza, Kuta 80361 Indonesia",4.646601337688598,6429,5605,6.07563259697798
+877,Balekambang Beach,2,13,Beaches,Malang District,4.027777777777778,36,36,3.8818768249810343
+888,Bromo Tengger Semeru National Park,2,61,National Parks,"Asrikaton - Pakis, Malang 65100 Indonesia",4.611548556430447,381,381,5.078403774692092
+897,Coban Rondo Waterfall,2,93,Waterfalls,Malang District,3.963636363636364,55,54,3.983434877570671
+913,Goa Cina Beach,2,13,Beaches,"Dusun Trowotratih, Desa Sitiarjo Kecamatan Sumbermanjing Wetan, Malang 65111 Indonesia",4.092592592592593,54,52,4.059047672848515
+920,Jodipan Colorful Village,2,64,Neighborhoods,"Gang 1 Jodipan, Kesatrian, Kec. Blimbing, Malang 65126 Indonesia",4.318181818181818,44,43,4.136902767652588
+928,Khayangan Reflexology & Massage,2,82,Spas,Malang,4.571428571428571,28,28,4.149982111923838
+937,Malang City Square,2,72,Points of Interest & Landmarks,"Jl. Merdeka Utara, Malang 65119 Indonesia",3.578125,64,64,3.786816794463473
+947,Mount Semeru Volcano,2,91,Volcanos,Malang Lumajang,4.698795180722891,83,83,4.605002747065039
+949,Museum Malang Tempo Doeloe,2,84,Speciality Museums,"Jl. Gajahmada no. 2, Malang 65119 Indonesia",4.032258064516129,31,31,3.8339753079153884
+975,Sempu Island,2,63,Nature & Wildlife Areas,"Sumber Manjing Wetan, Malang 65111 Indonesia",4.2075471698113205,53,53,4.131050076674855
+1133,Jomblang Cave,3,19,Caverns & Caves,"Jetis Wetan, Pacarejo, Semanu 55581 Indonesia",4.503703703703704,135,119,4.634320303119626
+1137,Kalibiru National Park,3,61,National Parks,Kulon Progo,3.8461538461538463,130,82,4.160683391579948
+1166,Malioboro Road,3,34,Flea & Street Markets,Yogyakarta,3.869335347432024,1324,521,4.93812666922416
+1171,Merapi Volcano,3,91,Volcanos,Yogyakarta,4.079194630872483,2235,855,5.254814506250036
+1220,Ramayana Ballet at Prambanan,3,10,Ballets,Sleman,4.180371352785146,377,224,4.742574968435685
+1225,Ratu Boko Temple,3,2,Ancient Ruins,Yogyakarta,3.9362745098039214,204,162,4.398705946237827
+1238,Sewu Temple,3,2,Ancient Ruins,Yogyakarta,4.1246684350132625,377,169,4.678337875368543
+1278,Ullen Sentalu Museum,3,45,History Museums,"Jl. Boyong Taman Wisata, 55581 Indonesia",4.2566462167689165,978,477,5.1054140247815685
+1280,Water Castle (Tamansari),3,72,Points of Interest & Landmarks,"Jl. Taman, 55133 Indonesia",3.8150134048257374,373,246,4.51176149615316
+1297,Yogyakarta Palace,3,44,Historic Sites,Yogyakarta,3.5388471177944862,798,472,4.587000401857178
