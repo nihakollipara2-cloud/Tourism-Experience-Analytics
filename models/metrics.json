@@ -1,0 +1,24 @@
+{
+  "dataset": {
+    "transactions": 52930,
+    "users": 33530,
+    "attractions": 1698,
+    "cities": 9143,
+    "countries": 165,
+    "regions": 22,
+    "continents": 6,
+    "attraction_types": 17
+  },
+  "classification": {
+    "accuracy": 0.5355186094842245,
+    "precision_weighted": 0.5993814178343404,
+    "recall_weighted": 0.5355186094842245,
+    "f1_weighted": 0.5503999626229295
+  },
+  "regression": {
+    "r2": 0.10781869353140061,
+    "rmse": 0.9519322121160062,
+    "mae": 0.7456020230216989
+  },
+  "split": "Chronological 80% train / 20% test"
+}
